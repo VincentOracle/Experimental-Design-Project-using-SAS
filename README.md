@@ -48,7 +48,7 @@ the cc array, and if its value is 2, it is set to 0. The code then calculates th
 (NumCC) by summing up the values of the dichotomous variables in the cc array. If
 NumCC is greater than or equal to 2, the patient is classified as having multiple
 chronic conditions (MCC=1); otherwise, if NumCC is either 0 or 1, the patient is
-classified as not having various chronic diseases (MCC=0). The output of the code
+classified as not having various chronic diseases (MCC=0).
 
 ## Results
 According to Table 4 of the study, the Guided Care model led to a 20%
